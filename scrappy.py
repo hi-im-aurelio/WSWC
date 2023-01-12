@@ -13,7 +13,6 @@ from app.lib.models.urls import URL_BEBIDAS
 # Função para clicar no butão de cockies.
 #
 def accept_cockies(firefox : webdriver.Firefox, class_name: str):
-    time.sleep(45) # await load page
     button = firefox.find_element(By().CLASS_NAME, class_name)
     button.click()
 
@@ -42,8 +41,11 @@ def scraping(document:BlocExcel, list_item):
         product_name = strong_class_product_ite_name.get_attribute('title')
         product_page = strong_class_product_ite_name.get_attribute('href')
 
+        product_price = ELEMENT.find_element(By().TAG_NAME, 'div').find_element(By().CLASS_NAME, 'product-item-details').find_element(By().CLASS_NAME, "price").text
+
+
         # print(product_name)
-        document.save_data_in_excel([product_name,product_page])
+        document.save_data_in_excel([product_name,product_page,product_price])
         shaved += 1
         print('Product scraping: {}/{}'.format(shaved, len(list_item)))
 
@@ -54,8 +56,9 @@ def next_page(browser:webdriver.Firefox):
         browser.find_element(By().CLASS_NAME, "pages-item-next").find_element(By().TAG_NAME, "a").click()
         print('Going to the next page...')
         
+        # Caracas! Isso resolveu um problema de 1 hora em 1 segundo.
         time.sleep(5)
-        browser.refresh()
+        browser.refresh() # O refresh permite que os elementos permançam como estavam no primeiro estado.
         time.sleep(1)
         return True
     except:
