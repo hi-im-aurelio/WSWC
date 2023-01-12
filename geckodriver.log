@@ -450,3 +450,327 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1673487586622	geckodriver	INFO	Listening on 127.0.0.1:48737
+1673487587022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0m7A5l"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673487594154	Marionette	INFO	Marionette enabled
+1673487594222	Marionette	INFO	Listening on port 42819
+Read port: 42819
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:44511
+Read port: 42819
+1673487595908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673487604834	Marionette	INFO	Stopped listening on port 39495
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0m7A5l/search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:44511/devtools/browser/15685001-f06a-4c23-ba0c-7577810729fa
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673487680757	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673487704645	Marionette	INFO	Stopped listening on port 42819
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673487712548	geckodriver	INFO	Listening on 127.0.0.1:43981
+1673487713056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexOuE0q"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673487715351	Marionette	INFO	Marionette enabled
+1673487715386	Marionette	INFO	Listening on port 38169
+Read port: 38169
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:58919
+1673487716428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexOuE0q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58919/devtools/browser/dc33e73d-2a17-40b8-80ca-2f7e46326384
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673487920417	Marionette	INFO	Stopped listening on port 40565
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967298/pagestyle31 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673488438990	Marionette	INFO	Stopped listening on port 38169
+1673488459365	geckodriver	INFO	Listening on 127.0.0.1:53529
+1673488459376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePpQUI5"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673488461022	Marionette	INFO	Marionette enabled
+1673488461033	Marionette	INFO	Listening on port 40561
+Read port: 40561
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:56811
+1673488461369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePpQUI5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56811/devtools/browser/b807c9f1-ad67-425b-b3ff-079da0be2135
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673488629864	geckodriver	INFO	Listening on 127.0.0.1:39941
+1673488630369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7UIUKQ"
+1673488631477	Marionette	INFO	Stopped listening on port 40561
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673488632724	Marionette	INFO	Marionette enabled
+1673488632750	Marionette	INFO	Listening on port 46169
+Read port: 46169
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:34305
+1673488633116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7UIUKQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34305/devtools/browser/70459f92-d3f1-498f-a032-1a757b6d4567
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+1673488856656	geckodriver	INFO	Listening on 127.0.0.1:47655
+1673488857177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHg5ebB"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673488858851	Marionette	INFO	Stopped listening on port 46169
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673488859770	Marionette	INFO	Marionette enabled
+1673488859781	Marionette	INFO	Listening on port 44947
+Read port: 44947
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:44991
+1673488860165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHg5ebB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44991/devtools/browser/37c9f9e2-7eac-4be4-9681-7f29e73cdb2c
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673488990601	geckodriver	INFO	Listening on 127.0.0.1:43185
+1673488991112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVZ1xTO"
+1673488992611	Marionette	INFO	Stopped listening on port 44947
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673488994053	Marionette	INFO	Marionette enabled
+1673488994071	Marionette	INFO	Listening on port 35327
+Read port: 35327
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:46071
+1673488994509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVZ1xTO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46071/devtools/browser/a723d2b1-c9cb-4042-99eb-be64dce38770
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673489130310	Marionette	INFO	Stopped listening on port 35327
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673489140574	geckodriver	INFO	Listening on 127.0.0.1:47069
+1673489140592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoiBR2u"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673489142237	Marionette	INFO	Marionette enabled
+1673489142250	Marionette	INFO	Listening on port 35421
+Read port: 35421
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:41047
+1673489142661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoiBR2u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41047/devtools/browser/4d11cf24-5d20-4b12-bdb4-7e933499c028
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1673489488314	Marionette	INFO	Stopped listening on port 35421
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673489493077	geckodriver	INFO	Listening on 127.0.0.1:51007
+1673489493088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDJBhIx"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673489494685	Marionette	INFO	Marionette enabled
+1673489494695	Marionette	INFO	Listening on port 36687
+Read port: 36687
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:35873
+1673489495013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDJBhIx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35873/devtools/browser/fc403c73-55af-442f-acd7-6a1ee1c320fa
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."

@@ -37,7 +37,6 @@ def scraping(list_item):
         span1 = a_class_product_photo.find_element(By().TAG_NAME, "span")
         span2 = span1.find_element(By().TAG_NAME, "span")
         img = span2.find_element(By().TAG_NAME, "img")
-        image_link = img.get_attribute('src')
 
         # details bloc
         #
@@ -45,10 +44,6 @@ def scraping(list_item):
         strong_class_product_ite_name = div_class_product_item_details.find_element(By().CLASS_NAME, 'product-item-link')
         product_name = strong_class_product_ite_name.get_attribute('title')
         product_page = strong_class_product_ite_name.get_attribute('href')
-
-
-        product_price = div_class_product_item_details.find_element(By().CLASS_NAME, 'price')
-        product_store = div_class_product_item_details.find_elements(By().TAG_NAME, 'a')
 
         # print(product_name)
         _document.save_data_in_excel([product_name,product_page])
@@ -58,3 +53,15 @@ def scraping(list_item):
     _document.generate_and_save_excel()
 
     developer.log('✔ Program finished. Found errors. 0.', name= 'Scraping')
+
+def next_page(browser:webdriver.Firefox):
+    try:
+        print('5 seconds to the next page. Wait a moment.')
+        time.sleep(5)
+        browser.find_element(By().CLASS_NAME, "pages-item-next").find_element(By().TAG_NAME, "a").click()
+        print('Going to the next page...')
+        return True
+    except:
+        developer.log('No more pages to scratch.')
+        return False
+    

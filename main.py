@@ -5,13 +5,13 @@ from cockroach import developing_cockroach as developer
 import time
 
 from app.lib.models.urls import URL_BEBIDAS
-from scrappy import accept_cockies, scraping
+from scrappy import accept_cockies, next_page, scraping
 
 developer.log('Calling the browser. Wait a moment...')
 print()
 
 firefox = webdriver.Firefox()
-firefox.set_window_size(500, 700)
+# firefox.set_window_size(500, 700)
 developer.log('Browser loaded. Starting program! (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )')
 firefox.get(URL_BEBIDAS)
 # firefox.add_cookie()
@@ -29,4 +29,10 @@ list_item = ordered_list.find_elements(By().TAG_NAME, 'li')
 print('✔ Found data.')
 developer.log('✔ Consuming fetched data.')
 
-scraping(list_item)
+# scraping(list_item)
+
+while True:
+    if next_page(browser=firefox):
+        continue
+    else:
+        break
