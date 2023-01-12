@@ -1,24 +1,25 @@
 '''Fragmento responsavel por gerar o excel.'''
 import openpyxl
 from cockroach import developing_cockroach as developer
-
-page:str = 'Bebidas'
+import os
 
 class BlocExcel:
-    def __init__(self, fileName:str):
-        self.fileName:str = fileName
+    def __init__(self, fileName:str, columnNames:list, sheetName:str):
+        self.fileName:str = fileName # Nome do documento
+        self.columnNames = columnNames # Columns names
+        self.sheetName = sheetName
         
         self.book = openpyxl.Workbook()
 
-        self.book.create_sheet(page)
+        self.book.create_sheet(self.sheetName)
 
-        self.sheet = self.book[page]
+        self.sheet = self.book[self.sheetName]
 
-        self.sheet.append(['NOME_DO_PRODUTO', 'LINK_DA_IMAGEM_DO_PRODUTO', 'PAGINA_DO_PRODUTO', 'PREÇO_DO_PRODUTO', 'LOJA', 'PÁGINA_DA_LOJA'])
+        self.sheet.append(self.columnNames) # create a column names
 
-    def save_data_in_excel(self,productName, linkImage, productPage, productPrice, productStore, storePage):
+    def save_data_in_excel(self,datas:list):
         '''Save data'''
-        self.sheet.append([productName, linkImage, productPage, productPrice, productStore, storePage])
+        self.sheet.append(datas)
 
     def generate_and_save_excel(self):
         '''Generate and save excel file'''

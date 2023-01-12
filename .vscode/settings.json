@@ -1,4 +1,4 @@
-// {
+{
 //     "python.testing.unittestArgs": [
 //         "-v",
 //         "-s",
@@ -11,4 +11,4 @@
 //     "python.testing.pytestArgs": [
 //         "tests"
 //     ]
-// }
+}
