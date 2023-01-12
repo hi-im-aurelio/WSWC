@@ -10,9 +10,6 @@ from app.lib.blocs.excel import BlocExcel
 
 from app.lib.models.urls import URL_BEBIDAS
 
-# Inicializando o documento excel.
-_document = BlocExcel(fileName='bazara_bebidas', columnNames=['PRODUCT_NAME', 'PRODUCT_LINK'], sheetName='BEBIDAS')
-
 # Função para clicar no butão de cockies.
 #
 def accept_cockies(firefox : webdriver.Firefox, class_name: str):
@@ -21,7 +18,7 @@ def accept_cockies(firefox : webdriver.Firefox, class_name: str):
     button.click()
 
 
-def scraping(list_item):
+def scraping(document:BlocExcel, list_item):
     # Consummer.
     # html navigational structure.
 
@@ -46,13 +43,9 @@ def scraping(list_item):
         product_page = strong_class_product_ite_name.get_attribute('href')
 
         # print(product_name)
-        _document.save_data_in_excel([product_name,product_page])
+        document.save_data_in_excel([product_name,product_page])
         shaved += 1
         print('Product scraping: {}/{}'.format(shaved, len(list_item)))
-
-    _document.generate_and_save_excel()
-
-    developer.log('✔ Program finished. Found errors. 0.', name= 'Scraping')
 
 def next_page(browser:webdriver.Firefox):
     try:
@@ -60,6 +53,10 @@ def next_page(browser:webdriver.Firefox):
         time.sleep(5)
         browser.find_element(By().CLASS_NAME, "pages-item-next").find_element(By().TAG_NAME, "a").click()
         print('Going to the next page...')
+        
+        time.sleep(5)
+        browser.refresh()
+        time.sleep(1)
         return True
     except:
         developer.log('No more pages to scratch.')

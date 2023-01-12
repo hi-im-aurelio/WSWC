@@ -7,6 +7,13 @@ import time
 from app.lib.models.urls import URL_BEBIDAS
 from scrappy import accept_cockies, next_page, scraping
 
+from app.lib.blocs.excel import BlocExcel
+
+
+# Inicializando o documento excel.
+_document = BlocExcel(fileName='bazara_bebidas', columnNames=['PRODUCT_NAME', 'PRODUCT_LINK'], sheetName='BEBIDAS')
+
+
 developer.log('Calling the browser. Wait a moment...')
 print()
 
@@ -20,19 +27,24 @@ firefox.get(URL_BEBIDAS)
 #
 accept_cockies(firefox, 'amgdprcookie-button')
 
-ordered_list = firefox.find_element(By().TAG_NAME, 'ol') 
+# Começando a varredura.
+def start_scan():
+    ordered_list = firefox.find_element(By().TAG_NAME, 'ol') 
+    list_item = ordered_list.find_elements(By().TAG_NAME, 'li')
+    developer.log('✔ Found data.')
+    print('Consuming fetched data.')
 
-print('Starting scan in 2 seconds...')
-time.sleep(1)
+    scraping(_document, list_item)
 
-list_item = ordered_list.find_elements(By().TAG_NAME, 'li')
-print('✔ Found data.')
-developer.log('✔ Consuming fetched data.')
-
-# scraping(list_item)
-
+# setup
 while True:
-    if next_page(browser=firefox):
-        continue
+    print('Starting scan in 2 second...')
+    time.sleep(2)
+    start_scan() # primeiro pega os dados da pagina.
+    if next_page(browser=firefox): # depois vefica se ainda há paginas.
+        continue # continua caso hajam paginas.
     else:
-        break
+        _document.generate_and_save_excel()
+        break # caso contrario
+
+developer.log('✔ Program finished. Found errors. 0.', name= 'Scraping')

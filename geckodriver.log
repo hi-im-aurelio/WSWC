@@ -774,3 +774,143 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673489688456	Marionette	INFO	Stopped listening on port 36687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673490589504	geckodriver	INFO	Listening on 127.0.0.1:56051
+1673490589520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeSC1Yx"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673490592266	Marionette	INFO	Marionette enabled
+1673490592278	Marionette	INFO	Listening on port 42209
+Read port: 42209
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:47059
+1673490592705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeSC1Yx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47059/devtools/browser/fc268482-9332-43fb-a5bd-b2f340a544fb
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1673490964303	geckodriver	INFO	Listening on 127.0.0.1:43703
+1673490964831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebBoIX3"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673490967578	Marionette	INFO	Marionette enabled
+1673490967590	Marionette	INFO	Listening on port 46275
+Read port: 46275
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673490967887	Marionette	INFO	Stopped listening on port 42209
+WebDriver BiDi listening on ws://127.0.0.1:47197
+1673490968128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebBoIX3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47197/devtools/browser/b53bc56a-6996-4de8-ae2f-6c1b3abf4281
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673491219023	geckodriver	INFO	Listening on 127.0.0.1:57449
+1673491219035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecgpGmo"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673491220697	Marionette	INFO	Marionette enabled
+1673491220708	Marionette	INFO	Listening on port 37989
+Read port: 37989
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:56945
+1673491221064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecgpGmo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56945/devtools/browser/c4c1ba1f-b832-4ead-92de-d159776f8857
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673491419604	geckodriver	INFO	Listening on 127.0.0.1:59573
+1673491419616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesSyISH"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673491421256	Marionette	INFO	Marionette enabled
+1673491421267	Marionette	INFO	Listening on port 36613
+Read port: 36613
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:57489
+1673491421581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesSyISH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57489/devtools/browser/73d500bf-4849-449f-b580-2c31d4002056
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+1673492087673	Marionette	INFO	Stopped listening on port 36613
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
