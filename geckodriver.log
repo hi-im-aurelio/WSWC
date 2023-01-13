@@ -3213,3 +3213,7 @@ console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", 
 DevTools listening on ws://127.0.0.1:34957/devtools/browser/9488a555-1dfa-4ad5-9f8e-4f3d24119a7b
 JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
 JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673613040535	Marionette	INFO	Stopped listening on port 45149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673613044539	Marionette	INFO	Stopped listening on port 38239
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
