@@ -4,18 +4,14 @@ from cockroach import developing_cockroach as developer
 
 import time
 
-from app.lib.models.urls import ALL_URLS, NAMES
-from scrappy import accept_cockies, next_page, scraping
+from app.models.bazara import ALL_URLS, NAMES
+from walls.bazara_co_mz import accept_cockies, next_page, scraping
 
-from app.lib.blocs.excel import BlocExcel
+from app.blocs.excel import BlocExcel
 
 developer.log('Calling the browser. Wait a moment...')
-print()
-
 firefox = webdriver.Firefox()
-# firefox.set_window_size(500, 700)
-
-developer.log('Browser loaded. Starting program! (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )')
+print('Browser loaded. Starting program!')
 
 # Começando a varredura.
 def start_scan(document:BlocExcel):
@@ -50,7 +46,7 @@ def setup():
         while True:
             print('Starting scan in 2 second...')
             time.sleep(2)
-            start_scan() # primeiro pega os dados da pagina.
+            start_scan(_document) # primeiro pega os dados da pagina.
             if next_page(browser=firefox): # depois vefica se ainda há paginas.
                 continue # continua caso hajam paginas.
             else:

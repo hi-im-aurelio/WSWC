@@ -1706,3 +1706,1510 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173
 1673513715517	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
 1673513904682	Marionette	INFO	Stopped listening on port 43545
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673514998614	geckodriver	INFO	Listening on 127.0.0.1:40963
+1673514998636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilertAsZa"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1673515002291	Marionette	INFO	Marionette enabled
+1673515002317	Marionette	INFO	Listening on port 36517
+Read port: 36517
+WebDriver BiDi listening on ws://127.0.0.1:59061
+1673515002942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilertAsZa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59061/devtools/browser/7a2d5957-ec93-46a9-b48f-282f45b83099
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673515091083	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673515168789	geckodriver	INFO	Listening on 127.0.0.1:39277
+1673515169317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0HsP5J"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673515179418	Marionette	INFO	Marionette enabled
+1673515179495	Marionette	INFO	Listening on port 45923
+Read port: 45923
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 45923
+WebDriver BiDi listening on ws://127.0.0.1:52139
+1673515181569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0HsP5J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52139/devtools/browser/f15cfa51-6cc0-4ed1-8e79-1a7d09464e9e
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+1673515792530	geckodriver	INFO	Listening on 127.0.0.1:38835
+1673515792972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeo42UX"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1673515804084	Marionette	INFO	Marionette enabled
+1673515804132	Marionette	INFO	Listening on port 43761
+Read port: 43761
+Read port: 43761
+WebDriver BiDi listening on ws://127.0.0.1:57681
+1673515806145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeo42UX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57681/devtools/browser/1fd4eab1-e2f3-4690-bcaa-d4a7ddac1d66
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673516454586	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673516526323	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673516536681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673516642621	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Customer/js/model/authentication-popup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Amasty_SocialLogin/js/authentication-popup-mixin
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673516922758	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673517429619	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1234: TypeError: shadowRoot is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6390 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 7699 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673517583472	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673517687729	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673517698174	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673517768805	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673517779208	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673518056363	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673518242263	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673518425050	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673518605126	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673519204771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673519614443	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673519779624	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673519790191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673519862918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673519873297	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673519951237	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673520029989	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673520124150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673520232152	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673520336449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673520447515	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673520565559	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673520576074	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673520674856	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673520841840	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673520943125	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673520953752	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673521013115	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673521094929	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673521105183	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673521177116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673521187856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673521254259	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673521266155	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673521343650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673521437089	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673521517497	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 23: Script terminated by timeout at:
+normalize@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:23:146
+toUrl@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:99:26
+getPath@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:138:64
+processName@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:142:277
+processNames@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:144:38
+defContext.defQueue.shift@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:144:720
+completeLoad@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:101:291
+onScriptLoad@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:112:330
+sentryWrapped@https://browser.sentry-cdn.com/5.28.0/bundle.min.js:2:51239
+
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/validation/validation
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: jquery-ui-modules/dialog
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: jquery/patches/jquery-ui
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/modal/modal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/apply/scripts
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: knockoutjs/knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: knockoutjs/knockout-es5
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/template/engine
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Magento_Translation/js/mage-translation-dictionary.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/extender/observable_array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/extender/bound-nodes
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/wrapper
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Catalog/js/product/view/product-ids
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Catalog/js/product/view/product-info
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673521650646	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673521877943	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673522087130	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673522298787	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673522411975	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673522513577	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673522592433	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673522603181	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673522684870	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673522696003	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673522770749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673522781452	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: jquery/jquery.mobile.custom
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/common
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/dataPost
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 3: Script terminated by timeout at:
+each@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:3:47
+enable@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:71:315
+init@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:54:144
+newContext/makeRequire/localRequire/<@https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js:97:156
+sentryWrapped@https://browser.sentry-cdn.com/5.28.0/bundle.min.js:2:51239
+c@https://bazara.co.mz/utilidades-domesticas?p=28:17:36700
+
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/registry/registry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: jquery-ui-modules/resizable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/collapsible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/staticChecked
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/simple-checked
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bind-html
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/tooltip
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/color-picker
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/arrays
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/compare
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/misc
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/objects
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/strings
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/template
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/range
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/template/loader
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/logger
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/mage-init
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/keyboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/datepicker
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/outer_click
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/fadeVisible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/optgroup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/after-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/autoselect
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/logger
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/console-output-handler
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/formatter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/message-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/levels-pool
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/logger-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/registry/registry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: jquery-ui-modules/resizable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: spectrum
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: tinycolor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: jquery/jquery.metadata
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/compare
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/arrays
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673522975217	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/utilidades-domesticas?p=25, line 17: Script terminated by timeout at:
+c@https://bazara.co.mz/utilidades-domesticas?p=25:17:36549
+
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Mismatched anonymous define() module: function($,cookies,modal){'use strict';return function(config,element){$(document).ready(function(){var options={'type':'popup','title':'Bazara na palma da tua mão','modalClass':'app-download-app-modal','responsive':true,'innerScroll':false,'buttons':[{text:'Baixar o aplicativo',class:'download-app',click:function(){this.closeModal();$.cookie("has_downloaded_app","true",{expires:365,secure:true,path:"/"});$.cookie("last_shown_prompt","",{expires:365,secure:true,path:"/"});window.location.href="https://play.google.com/store/apps/details?id=mz.co.bazara.app&utm_source=bazara.co.mz&utm_medium=site&utm_campaign=install_prompt";}},{text:'Ignorar',class:'back_button_class',click:function(){this.closeModal();$.cookie("last_shown_prompt",new Date().getTime(),{expires:7,secure:true,path:"/"});}}]};var isAndroid=navigator.userAgent.toLowerCase().indexOf("android")>-1;var lastShownDate=new Date(parseInt($.cookie('last_shown_prompt')));var daysDiff=Math.abs((new Date().getTime()-new Date(lastShownDate).getTime())/(1000*60*60*24));var $appStoreModal=$("#app-store-modal");if(isAndroid){if(!$.cookie("has_downloaded_app")&&!daysDiff){$appStoreModal.removeClass("hide")
+$appStoreModal.modal(options).modal("openModal");}
+else if(!$.cookie("has_downloaded_app")&&(daysDiff&&daysDiff>=7)){$appStoreModal.removeClass("hide")
+$appStoreModal.modal(options).modal("openModal");}}})}}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: jquery-ui-modules/effect-blind
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_ReCaptchaFrontendUi/js/registry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Security/js/escaper
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Amasty_GdprFrontendUi/js/action/cookie-decliner
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673523902202	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673524110322	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673524321764	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673524543670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673525060359	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673525269374	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673525678911	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673525913334	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673526241903	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673526563579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673526803693	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673526814498	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673526947840	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673527101331	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673527246805	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673527380280	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: text
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/smart-keyboard-handler
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/mage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/ie-class-fixer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/translate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: underscore
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Catalog/js/product/view/product-ids-resolver
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Catalog/js/product/view/product-info-resolver
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Catalog/js/price-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/dropdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: mage/utils/wrapper
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Magento_Ui/js/modal/modal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: knockoutjs/knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: knockoutjs/knockout-es5
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Sm_Market/js/owl.carousel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Sm_Market/js/jquery.fancybox.pack
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Sm_Market/js/jquery.fancybox-media
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://bazara.co.mz/static/version20220821001337/_cache/merged/f103b32cc05e2c9f7f9261297adab76f.min.js, line 16: Error: Script error for: Sm_CartQuickPro/js/custom-quickview
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673527645030	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript error: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_ShopBy/js/product/list/toolbar.min.js, line 2: TypeError: urlParams[i] is undefined
+1673527793551	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673527950709	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673527962264	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bazara.co.mz."
+1673528074346	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673528084681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 16: unreachable code after return statement
+JavaScript warning: https://bazara.co.mz/static/version20220821001337/frontend/Vodacom/Bazara/pt_PT/Sm_CartQuickPro/js/custom-addtocart.min.js, line 17: unreachable code after return statement
+[GFX1-]: Failed to create EGLSurface. 3 renderers, 2 active.
+Gdk-Message: 15:46:51.329: Error 104 (Conexão fechada pela outra ponta) dispatching to Wayland display.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673601130747	geckodriver	INFO	Listening on 127.0.0.1:53909
+1673601131247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUMBdMC"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673601150479	Marionette	INFO	Marionette enabled
+1673601150506	Marionette	INFO	Listening on port 40115
+Read port: 40115
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40115
+Read port: 40115
+WebDriver BiDi listening on ws://127.0.0.1:36781
+1673601153915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUMBdMC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36781/devtools/browser/1b0c6f7d-b19c-4735-967f-1b4b703b02e8
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/network-observer/NetworkObserver.sys.mjs :: #onResponseHeader :: line 986"  data: no]
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:986:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:555:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:664:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 986, column: 0
+console.error: ({})
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967299/pagestyle24 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+1673604727126	geckodriver	INFO	Listening on 127.0.0.1:35493
+1673604727759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileANFh6z"
+1673604746771	geckodriver	INFO	Listening on 127.0.0.1:46357
+1673604747249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee5njFA"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673604763660	Marionette	INFO	Marionette enabled
+1673604763698	Marionette	INFO	Listening on port 40637
+Read port: 40637
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40637
+WebDriver BiDi listening on ws://127.0.0.1:56915
+1673604766097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee5njFA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56915/devtools/browser/e7f36b10-610a-4f98-9a00-c902f68b6a3c
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://krolyc.co.mz."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673605194907	geckodriver	INFO	Listening on 127.0.0.1:52041
+1673605195375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6HMyBe"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673605213929	Marionette	INFO	Marionette enabled
+1673605213955	Marionette	INFO	Listening on port 40061
+Read port: 40061
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40061
+WebDriver BiDi listening on ws://127.0.0.1:46917
+1673605216055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6HMyBe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46917/devtools/browser/f2a37ce5-d109-4eef-98f0-f005ce494e0c
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673605443747	Marionette	INFO	Stopped listening on port 40061
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673605447012	geckodriver	INFO	Listening on 127.0.0.1:44405
+1673605447524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7knaDa"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673605450367	Marionette	INFO	Marionette enabled
+1673605450395	Marionette	INFO	Listening on port 42347
+Read port: 42347
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:34555
+1673605450900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7knaDa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34555/devtools/browser/a66e3636-d019-4899-971c-91e8b72ea381
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673605585461	Marionette	INFO	Stopped listening on port 42347
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673606075483	geckodriver	INFO	Listening on 127.0.0.1:52801
+1673606075495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesX88Z1"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673606077347	Marionette	INFO	Marionette enabled
+1673606077358	Marionette	INFO	Listening on port 38467
+Read port: 38467
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:37823
+1673606077691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesX88Z1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37823/devtools/browser/5a0f91fe-ad80-4109-8a2a-b1f568df4e9e
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967298/domnode169, type modifyAttributes failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+apply@resource://devtools/client/fronts/node.js:84:27
+_setupAttributeEditor/done/<@resource://devtools/client/inspector/markup/views/element-editor.js:796:20
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+done@resource://devtools/client/inspector/markup/views/element-editor.js:794:29
+_apply@resource://devtools/client/shared/inplace-editor.js:1055:19
+_onBlur@resource://devtools/client/shared/inplace-editor.js:1086:12
+
+1673607337803	Marionette	INFO	Stopped listening on port 38467
+1673607349458	geckodriver	INFO	Listening on 127.0.0.1:38931
+1673607349942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0uaNYg"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673607359786	Marionette	INFO	Marionette enabled
+1673607359813	Marionette	INFO	Listening on port 36047
+Read port: 36047
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:36687
+1673607360876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0uaNYg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36687/devtools/browser/1d3e5f2b-15dc-4688-b464-5dbe3149368f
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+console.error: "Error while calling actor 'domwalker's method 'editTagName'" "Could not change node's tagName to "
+console.error: (new Error("Could not change node's tagName to ", "resource://devtools/server/actors/inspector/walker.js", 1930))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673607531061	Marionette	INFO	Stopped listening on port 36047
+1673607533337	geckodriver	INFO	Listening on 127.0.0.1:55867
+1673607533866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej4Zu7p"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673607535453	Marionette	INFO	Marionette enabled
+1673607535464	Marionette	INFO	Listening on port 46845
+Read port: 46845
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:50891
+1673607535762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej4Zu7p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50891/devtools/browser/e98f97bc-8eaa-4395-bef7-b3ece9b2d8fb
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673607781966	Marionette	INFO	Stopped listening on port 46845
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673607784285	geckodriver	INFO	Listening on 127.0.0.1:42583
+1673607784297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3DyBN1"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673607786384	Marionette	INFO	Marionette enabled
+1673607786395	Marionette	INFO	Listening on port 43831
+Read port: 43831
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:51087
+1673607786709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3DyBN1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51087/devtools/browser/7828c873-1e0f-40a8-9176-13a1a0b96ab2
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673607995390	geckodriver	INFO	Listening on 127.0.0.1:35427
+1673607995421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefbX5xA"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673607997300	Marionette	INFO	Marionette enabled
+1673607997313	Marionette	INFO	Listening on port 35589
+Read port: 35589
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:45203
+1673607997630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefbX5xA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45203/devtools/browser/4d602cbe-ff8c-471f-8e12-94d847093948
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673608467594	geckodriver	INFO	Listening on 127.0.0.1:38581
+1673608467606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAAFueD"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673608475371	Marionette	INFO	Marionette enabled
+1673608475388	Marionette	INFO	Listening on port 43045
+Read port: 43045
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:33335
+1673608475766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAAFueD/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:33335/devtools/browser/70f90c09-394b-48b7-9ba0-aedb848e0f85
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673608571701	Marionette	INFO	Stopped listening on port 43045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673608580296	geckodriver	INFO	Listening on 127.0.0.1:52187
+1673608580784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOtqHcE"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673608583703	Marionette	INFO	Marionette enabled
+1673608583738	Marionette	INFO	Listening on port 42195
+Read port: 42195
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:49697
+1673608584288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOtqHcE/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:49697/devtools/browser/17ead0de-693c-42c0-a944-cba31632344a
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673608996536	geckodriver	INFO	Listening on 127.0.0.1:44179
+1673608996629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTAlSQ7"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673609004856	Marionette	INFO	Marionette enabled
+1673609004876	Marionette	INFO	Listening on port 42353
+Read port: 42353
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42353
+WebDriver BiDi listening on ws://127.0.0.1:45959
+1673609006549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTAlSQ7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45959/devtools/browser/6b232f5e-3389-420f-8fdc-8244e1154815
+1673609071555	Marionette	INFO	Stopped listening on port 42195
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "Sqlite.sys.mjs: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673609118002	Marionette	INFO	Stopped listening on port 42353
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673609273724	geckodriver	INFO	Listening on 127.0.0.1:53681
+1673609274205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGf0jtz"
+1673609311812	geckodriver	INFO	Listening on 127.0.0.1:59519
+1673609312276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRX0tsP"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673609316159	Marionette	INFO	Marionette enabled
+1673609316176	Marionette	INFO	Listening on port 39031
+Read port: 39031
+Read port: 39031
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39031
+WebDriver BiDi listening on ws://127.0.0.1:47695
+1673609319097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRX0tsP/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:47695/devtools/browser/00656db2-f1e3-4778-97c1-752c00161bbf
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673610447721	Marionette	INFO	Stopped listening on port 39031
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673610455421	geckodriver	INFO	Listening on 127.0.0.1:35545
+1673610455433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBW7yPW"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673610457815	Marionette	INFO	Marionette enabled
+1673610457832	Marionette	INFO	Listening on port 39221
+Read port: 39221
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:55153
+1673610458176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBW7yPW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55153/devtools/browser/9eeddd7d-7680-4e96-a5f0-da1aeda5000f
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673610641264	Marionette	INFO	Stopped listening on port 39221
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673610724781	geckodriver	INFO	Listening on 127.0.0.1:44275
+1673610725293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaL9GPj"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673610727462	Marionette	INFO	Marionette enabled
+1673610727473	Marionette	INFO	Listening on port 43459
+Read port: 43459
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:42801
+1673610727796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaL9GPj/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:42801/devtools/browser/8be8bba3-5515-43aa-9078-c7ac4fdc1451
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673610974457	geckodriver	INFO	Listening on 127.0.0.1:40719
+1673610974962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1GmQEW"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673610984397	Marionette	INFO	Marionette enabled
+1673610984756	Marionette	INFO	Listening on port 41807
+Read port: 41807
+1673610985284	Marionette	INFO	Stopped listening on port 43459
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 41807
+WebDriver BiDi listening on ws://127.0.0.1:48029
+1673610986492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1GmQEW/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:48029/devtools/browser/fb7fb5d0-4e7e-4ee7-bdb5-ca5b0aea92a9
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673611208954	Marionette	INFO	Stopped listening on port 41807
+1673611230025	geckodriver	INFO	Listening on 127.0.0.1:45023
+1673611230489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenv05vS"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673611232202	Marionette	INFO	Marionette enabled
+1673611232212	Marionette	INFO	Listening on port 36611
+Read port: 36611
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:35835
+1673611232536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenv05vS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35835/devtools/browser/0019569a-0c78-45ca-a145-a191f630dcd1
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673611716302	Marionette	INFO	Stopped listening on port 36611
+1673611866527	geckodriver	INFO	Listening on 127.0.0.1:60145
+1673611866577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVCm436"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673611874106	Marionette	INFO	Marionette enabled
+1673611874125	Marionette	INFO	Listening on port 37629
+Read port: 37629
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:43485
+1673611875050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVCm436/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43485/devtools/browser/0cde3e17-b1e5-453b-845d-ee4b59688f3d
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673612312154	geckodriver	INFO	Listening on 127.0.0.1:48257
+1673612312523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5AJkPW"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673612317334	Marionette	INFO	Marionette enabled
+1673612317344	Marionette	INFO	Listening on port 34049
+Read port: 34049
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:53559
+1673612317961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5AJkPW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53559/devtools/browser/99c79eac-4ba2-4b29-87c8-00ee54780096
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673612516880	Marionette	INFO	Stopped listening on port 34049
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673612535871	geckodriver	INFO	Listening on 127.0.0.1:57717
+1673612536374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1k3o2q"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673612537993	Marionette	INFO	Marionette enabled
+1673612538012	Marionette	INFO	Listening on port 46379
+Read port: 46379
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:50693
+1673612538607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1k3o2q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50693/devtools/browser/4ccf0bf4-f401-4509-b8ff-d5bd90da28ea
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673612748822	Marionette	INFO	Stopped listening on port 46379
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673612777379	geckodriver	INFO	Listening on 127.0.0.1:58993
+1673612777833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMGUCsr"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673612779445	Marionette	INFO	Marionette enabled
+1673612779456	Marionette	INFO	Listening on port 38239
+Read port: 38239
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:43563
+1673612779763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMGUCsr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43563/devtools/browser/f3095bed-4d26-4d29-89d3-546064ef5206
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+1673612908451	geckodriver	INFO	Listening on 127.0.0.1:36609
+1673612908463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL9lfUS"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673612910869	Marionette	INFO	Marionette enabled
+1673612910879	Marionette	INFO	Listening on port 45149
+Read port: 45149
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:34957
+1673612911197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL9lfUS/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:34957/devtools/browser/9488a555-1dfa-4ad5-9f8e-4f3d24119a7b
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified
+JavaScript error: https://connect.facebook.net/pt_PT/sdk/xfbml.customerchat.js, line 87: uncaught exception: Error: invalid version specified

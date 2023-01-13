@@ -5,10 +5,7 @@ from cockroach import developing_cockroach as developer
 
 
 import time
-from app.lib.blocs.excel import BlocExcel
-
-
-from app.lib.models.urls import URL_BEBIDAS
+from app.blocs.excel import BlocExcel
 
 # Função para clicar no butão de cockies.
 #

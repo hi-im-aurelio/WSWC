@@ -25,3 +25,9 @@ class BlocExcel:
         '''Generate and save excel file'''
         self.book.save(self.fileName + '.xlsx')
         developer.log(message='Saved Excel file.', name='Excel')
+
+class BlocLoadExcel:
+    def load_excel(self, path:str): 
+        '''Retorna o documento excel que se prentende abrir'''
+        return openpyxl.load_workbook(path)
+            
