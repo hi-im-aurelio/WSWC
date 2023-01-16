@@ -4243,3 +4243,167 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Z
 JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 858 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 4042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 3654 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673851590001	geckodriver	INFO	Listening on 127.0.0.1:45105
+1673851590436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIT1u9z"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673851622189	Marionette	INFO	Marionette enabled
+1673851622248	Marionette	INFO	Listening on port 46023
+Read port: 46023
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 46023
+Read port: 46023
+WebDriver BiDi listening on ws://127.0.0.1:57419
+1673851625413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIT1u9z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57419/devtools/browser/9f42a5ea-1c51-4f48-a181-ef1bff56f1aa
+JavaScript warning: https://megafresh.co.mz/wp-content/plugins/prdctfltr/includes/js/prdctfltr.js?ver=8.1.1, line 804: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673853185336	Marionette	INFO	Stopped listening on port 46023
+1673853210257	geckodriver	INFO	Listening on 127.0.0.1:49103
+1673853210783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSOSCWT"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673853222168	Marionette	INFO	Marionette enabled
+1673853222205	Marionette	INFO	Listening on port 34863
+Read port: 34863
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:59857
+Read port: 34863
+1673853224076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSOSCWT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59857/devtools/browser/58078bc3-1807-44e4-95ba-ec541c62a4e2
+JavaScript warning: https://megafresh.co.mz/wp-content/plugins/prdctfltr/includes/js/prdctfltr.js?ver=8.1.1, line 804: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+JavaScript warning: https://megafresh.co.mz/wp-content/plugins/prdctfltr/includes/js/prdctfltr.js?ver=8.1.1, line 804: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+1673853490259	geckodriver	INFO	Listening on 127.0.0.1:36061
+1673853490759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebg4cDU"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673853494850	Marionette	INFO	Marionette enabled
+1673853494861	Marionette	INFO	Listening on port 36091
+Read port: 36091
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:56833
+1673853495345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebg4cDU/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:56833/devtools/browser/972962d7-92dd-4c53-87b1-2d06f992414f
+JavaScript warning: https://megafresh.co.mz/wp-content/plugins/prdctfltr/includes/js/prdctfltr.js?ver=8.1.1, line 804: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673854434251	Marionette	INFO	Stopped listening on port 36091
+1673854471143	geckodriver	INFO	Listening on 127.0.0.1:51539
+1673854471499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVqDEmb"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673854507799	Marionette	INFO	Marionette enabled
+1673854507849	Marionette	INFO	Listening on port 40779
+Read port: 40779
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:60225
+1673854508923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVqDEmb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60225/devtools/browser/5ebe5c37-1a53-421b-8ca9-9dc373821fd6
+JavaScript warning: https://megafresh.co.mz/wp-content/plugins/prdctfltr/includes/js/prdctfltr.js?ver=8.1.1, line 804: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+1673873050088	geckodriver	INFO	Listening on 127.0.0.1:41091
+1673873050515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIgaNB8"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673873064441	Marionette	INFO	Marionette enabled
+1673873064535	Marionette	INFO	Listening on port 39069
+Read port: 39069
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39069
+Read port: 39069
+WebDriver BiDi listening on ws://127.0.0.1:34209
+1673873069195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIgaNB8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34209/devtools/browser/4dd988c7-a3d6-495f-8882-2d291ebbe703
+JavaScript warning: https://megafresh.co.mz/wp-content/plugins/prdctfltr/includes/js/prdctfltr.js?ver=8.1.1, line 804: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673874454684	Marionette	INFO	Stopped listening on port 39069
+1673874478394	geckodriver	INFO	Listening on 127.0.0.1:54749
+1673874478888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLKhTLs"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673874484514	Marionette	INFO	Marionette enabled
+1673874484551	Marionette	INFO	Listening on port 38237
+Read port: 38237
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:42257
+1673874485080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLKhTLs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42257/devtools/browser/eb5fe77b-ca1f-418b-978d-8395395654ad
+JavaScript warning: https://megafresh.co.mz/wp-content/plugins/prdctfltr/includes/js/prdctfltr.js?ver=8.1.1, line 804: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://megafresh.co.mz."
+1673874624697	geckodriver	INFO	Listening on 127.0.0.1:52367
+1673874624706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenFqHhU"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673874627259	Marionette	INFO	Marionette enabled
+1673874627271	Marionette	INFO	Listening on port 33439
+Read port: 33439
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673874627553	Marionette	INFO	Stopped listening on port 38237
+WebDriver BiDi listening on ws://127.0.0.1:46939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673874628186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenFqHhU/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:46939/devtools/browser/f3b5e688-2c86-4242-ad2b-5f7a9cd787f3
+1673874706586	Marionette	INFO	Stopped listening on port 33439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673874708611	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1673874730009	geckodriver	INFO	Listening on 127.0.0.1:55137
+1673874730062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNH6m0E"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673874731703	Marionette	INFO	Marionette enabled
+1673874731714	Marionette	INFO	Listening on port 46391
+Read port: 46391
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:57793
+1673874732046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNH6m0E/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57793/devtools/browser/281a0afd-dbdb-400d-b1f8-2802692cb8c2
+JavaScript warning: https://megafresh.co.mz/wp-content/plugins/prdctfltr/includes/js/prdctfltr.js?ver=8.1.1, line 804: unreachable code after return statement
