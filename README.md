@@ -15,13 +15,13 @@ Abaixo seguem elas: As marcadas com ✔, já tem modelos prontos para a varredur
   
   ✔	www.Recheio.co.mz<b>
   
-  https://milano.co.mz/<b>
+  ✔ https://milano.co.mz/<b>
   
   https://mozbuy.com/<b>
   
   https://mukhero.com/<b>
   
-  https://lojassmile.com/<b>
+  ✔ https://lojassmile.com/<b>
   
   https://megafresh.co.mz/<b>
   
