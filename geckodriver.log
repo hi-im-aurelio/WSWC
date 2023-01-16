@@ -4127,3 +4127,54 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:59865/devtools/browser/4494b104-b278-4927-a89b-49f8677ccc4f
 JavaScript error: https://recheio.co.mz/js/ProductList.js?v=985501, line 38: TypeError: s.responseJSON is undefined
 JavaScript error: https://recheio.co.mz/js/ProductList.js?v=985501, line 47: TypeError: s.responseJSON is undefined
+1673825294839	geckodriver	INFO	Listening on 127.0.0.1:43811
+1673825295318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelgTvPK"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673825321281	Marionette	INFO	Marionette enabled
+1673825321367	Marionette	INFO	Listening on port 41407
+Read port: 41407
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 41407
+Read port: 41407
+Read port: 41407
+WebDriver BiDi listening on ws://127.0.0.1:56147
+1673825325874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelgTvPK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56147/devtools/browser/7b01259a-b796-4a5e-b7ab-bc674494906d
+console.error: "Error while calling actor 'domnode's method 'getImageData'" "Image 'https://milano.co.mz/wp-content/uploads/2022/06/PR-Elixir-375x375.jpg' took too long to load."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/customhighlighter130, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nshow@resource://devtools/client/fronts/highlighters.js:31:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:586:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/customhighlighter130, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:645:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:361:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:548:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:774:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:553:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/customhighlighter130, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nshow@resource://devtools/client/fronts/highlighters.js:31:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:586:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/customhighlighter130, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:645:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:361:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:548:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:774:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:553:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/customhighlighter130, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nshow@resource://devtools/client/fronts/highlighters.js:31:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:586:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/customhighlighter130, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:645:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:361:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:548:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:774:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:553:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673828260403	Marionette	INFO	Stopped listening on port 41407
+1673828288446	geckodriver	INFO	Listening on 127.0.0.1:55785
+1673828288971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUyuePU"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673828298511	Marionette	INFO	Marionette enabled
+1673828298842	Marionette	INFO	Listening on port 39165
+Read port: 39165
+Read port: 39165
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39165
+WebDriver BiDi listening on ws://127.0.0.1:43345
+1673828301834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUyuePU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43345/devtools/browser/0c7e4d3b-6479-444b-8c40-505857143a02
+1673828434188	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
