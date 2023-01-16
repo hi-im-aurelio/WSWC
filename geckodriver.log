@@ -4572,3 +4572,105 @@ JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bott
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 1673881962324	Marionette	INFO	Stopped listening on port 41057
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673883233629	geckodriver	INFO	Listening on 127.0.0.1:50441
+1673883233637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileprtmXz"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673883237177	Marionette	INFO	Marionette enabled
+1673883237190	Marionette	INFO	Listening on port 38677
+Read port: 38677
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:59701
+1673883237678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileprtmXz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59701/devtools/browser/b973a596-dfa5-488d-ae6e-18967476f20c
+JavaScript warning: https://www.compra.co.mz/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 1012))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:1012:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:203:10
+onDetached@resource://devtools/client/inspector/inspector.js:1685:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673884131366	Marionette	INFO	Stopped listening on port 38677
+1673884143523	geckodriver	INFO	Listening on 127.0.0.1:58187
+1673884143996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile18XHEp"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673884147177	Marionette	INFO	Marionette enabled
+1673884147203	Marionette	INFO	Listening on port 36617
+Read port: 36617
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:38553
+1673884148277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile18XHEp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38553/devtools/browser/736b9def-c454-40e3-8b10-5f50aea559fc
+JavaScript warning: https://www.compra.co.mz/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/calendar/calendar.js, line 138: unreachable code after return statement
+1673884229957	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://www.compra.co.mz/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/calendar/calendar.js, line 138: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673884362412	geckodriver	INFO	Listening on 127.0.0.1:48171
+1673884362920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletpT4zs"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673884365115	Marionette	INFO	Marionette enabled
+1673884365131	Marionette	INFO	Listening on port 40627
+Read port: 40627
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:51219
+1673884365505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletpT4zs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51219/devtools/browser/09fb3ecb-3daa-4b7a-8a31-f561a1dc5726
+JavaScript warning: https://www.compra.co.mz/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://www.compra.co.mz/js/calendar/calendar.js, line 138: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
