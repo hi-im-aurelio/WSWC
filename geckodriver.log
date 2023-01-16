@@ -4178,3 +4178,68 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1673830770384	geckodriver	INFO	Listening on 127.0.0.1:35263
+1673830770904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiyde5h"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673830777220	Marionette	INFO	Marionette enabled
+1673830777248	Marionette	INFO	Listening on port 34481
+Read port: 34481
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:43443
+1673830778195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiyde5h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43443/devtools/browser/f6d67073-f92b-4c7e-8fea-d5edf44ecd2b
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 4726 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673832266804	geckodriver	INFO	Listening on 127.0.0.1:41069
+1673832266838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH3cxXK"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673832273015	Marionette	INFO	Marionette enabled
+1673832273046	Marionette	INFO	Listening on port 46835
+Read port: 46835
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:59707
+1673832274114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH3cxXK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59707/devtools/browser/640c08d0-fd83-4acb-ace2-b7a60b617f66
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 2506 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2099: TypeError: currentPanel is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 1865 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 987 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673833694317	Marionette	INFO	Stopped listening on port 46835
+1673833726741	geckodriver	INFO	Listening on 127.0.0.1:51595
+1673833727220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaFxENv"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673833736221	Marionette	INFO	Marionette enabled
+1673833736268	Marionette	INFO	Listening on port 39047
+Read port: 39047
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39047
+WebDriver BiDi listening on ws://127.0.0.1:51885
+1673833738197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaFxENv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51885/devtools/browser/2a73be61-5a5c-43ce-8166-e87f1c245836
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 4226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 858 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 4042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QkZn2XWhGLuUeJCWE_Zylly3qUWdX-KWqHVIqMIXcrk.js line 2 > eval line 3654 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
