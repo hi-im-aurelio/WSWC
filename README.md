@@ -23,7 +23,7 @@ Abaixo seguem elas: As marcadas com ✔, já tem modelos prontos para a varredur
   
   ✔ https://lojassmile.com/<b>
   
-  https://megafresh.co.mz/<b>
+  ✔ https://megafresh.co.mz/<b>
   
   Morep.com<b>
   
