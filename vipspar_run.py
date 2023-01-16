@@ -1,4 +1,4 @@
-from app.models.vipspar import URLS
+from app.models.vipspar_co_mz import URLS
 
 
 import time
