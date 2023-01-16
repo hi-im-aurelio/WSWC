@@ -7,16 +7,16 @@ casa = SUPERMAHOMED_URL + '/31-casa-limpeza'
 bebe = SUPERMAHOMED_URL + '/29-bebe'
 
 ALL_URLS = [
-    # mercearia,
-    # bebidas,
-    # higiene,
-    # casa,
+    mercearia,
+    bebidas,
+    higiene,
+    casa,
     bebe
  ]
 NAMES = [
-    # 'mercearia',
-    # 'bebidas',
-    # 'higiene',
-    # 'casa',
+    'mercearia',
+    'bebidas',
+    'higiene',
+    'casa',
     'bebe'
         ]
