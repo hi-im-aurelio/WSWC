@@ -1,3 +1,6 @@
+<h1>WARNING: CODE NEEDS REVISION. DONE THE FANGES, THEN A LOT OF THINGS WILL BE
+IMPLEMENTED WITH BAD PRACTICES AND A LOT OF LAY CODE.</h1>
+<br>
 # WSWC - Web Scraping With Cockroach
 
 WSWC é um agrupamento de modelos de extração de dados em paginás consideradas alvos. 
