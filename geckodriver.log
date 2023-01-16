@@ -4407,3 +4407,168 @@ WebDriver BiDi listening on ws://127.0.0.1:57793
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNH6m0E/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:57793/devtools/browser/281a0afd-dbdb-400d-b1f8-2802692cb8c2
 JavaScript warning: https://megafresh.co.mz/wp-content/plugins/prdctfltr/includes/js/prdctfltr.js?ver=8.1.1, line 804: unreachable code after return statement
+1673875984128	Marionette	INFO	Stopped listening on port 46391
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673876328055	geckodriver	INFO	Listening on 127.0.0.1:37097
+1673876328489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenTc8XN"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673876339449	Marionette	INFO	Marionette enabled
+1673876339474	Marionette	INFO	Listening on port 38945
+Read port: 38945
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:53407
+1673876340330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenTc8XN/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:53407/devtools/browser/2537967e-4f8e-45fe-9826-b0d673e85fa5
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-2f05d0570.js, line 1370: TypeError: $(...).fancybox is not a function
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967298/pagestyle24 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673877423064	Marionette	INFO	Stopped listening on port 38945
+1673877517994	geckodriver	INFO	Listening on 127.0.0.1:35549
+1673877518043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLPhXY7"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673877522189	Marionette	INFO	Marionette enabled
+1673877522201	Marionette	INFO	Listening on port 44125
+Read port: 44125
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:40291
+1673877523015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLPhXY7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40291/devtools/browser/037545a1-f968-4d55-b9e5-6fc9abc6e43c
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673877737507	Marionette	INFO	Stopped listening on port 44125
+1673877753251	geckodriver	INFO	Listening on 127.0.0.1:58593
+1673877753262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileY7vxGb"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673877755542	Marionette	INFO	Marionette enabled
+1673877755558	Marionette	INFO	Listening on port 41585
+Read port: 41585
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:37785
+1673877756041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY7vxGb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37785/devtools/browser/c1eea177-de21-4184-905b-471ad3d7629e
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673878720805	geckodriver	INFO	Listening on 127.0.0.1:38535
+1673878721306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenz6KQ3"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673878723525	Marionette	INFO	Marionette enabled
+1673878723539	Marionette	INFO	Listening on port 42047
+Read port: 42047
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:34541
+1673878724014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenz6KQ3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34541/devtools/browser/55f49825-085e-4af7-a886-d0680cfd322d
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+1673878823260	geckodriver	INFO	Listening on 127.0.0.1:47567
+1673878823768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFYIiOh"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673878827607	Marionette	INFO	Marionette enabled
+1673878827624	Marionette	INFO	Listening on port 42929
+Read port: 42929
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:55171
+1673878828063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFYIiOh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55171/devtools/browser/9020ac56-3974-4aad-8e19-ee78762bc04a
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673880841370	Marionette	INFO	Stopped listening on port 42929
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673880895554	geckodriver	INFO	Listening on 127.0.0.1:47815
+1673880896057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGzgxCW"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673880898204	Marionette	INFO	Marionette enabled
+1673880898215	Marionette	INFO	Listening on port 34927
+Read port: 34927
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:58353
+1673880898721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGzgxCW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58353/devtools/browser/413f6531-8b17-421e-9317-a8c88e872748
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+1673881086765	Marionette	INFO	Stopped listening on port 34927
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673881515003	geckodriver	INFO	Listening on 127.0.0.1:59873
+1673881515013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejOSemT"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673881516882	Marionette	INFO	Marionette enabled
+1673881516893	Marionette	INFO	Listening on port 38403
+Read port: 38403
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:45917
+1673881517290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejOSemT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45917/devtools/browser/e1889be6-9077-49f4-a456-a01212967813
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+1673881591082	geckodriver	INFO	Listening on 127.0.0.1:45761
+1673881591095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej0lr6l"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673881592633	Marionette	INFO	Marionette enabled
+1673881592649	Marionette	INFO	Listening on port 41057
+Read port: 41057
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:47071
+1673881592965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej0lr6l/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47071/devtools/browser/2e445b5a-9179-4b90-9d3d-4c2d8772c3ef
+1673881606963	Marionette	INFO	Stopped listening on port 38403
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+1673881786411	geckodriver	INFO	Listening on 127.0.0.1:60507
+1673881786423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK6hvRF"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673881788516	Marionette	INFO	Marionette enabled
+1673881788529	Marionette	INFO	Listening on port 37639
+Read port: 37639
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:41115
+1673881788862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK6hvRF/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:41115/devtools/browser/9d00d671-8367-4103-b093-3f3afc2efbcf
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+JavaScript error: https://www.supermahomed.co.mz/themes/Gomart/assets/cache/bottom-dbaf6b570.js, line 1248: TypeError: $(...).fancybox is not a function
+1673881958096	Marionette	INFO	Stopped listening on port 37639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673881962324	Marionette	INFO	Stopped listening on port 41057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
