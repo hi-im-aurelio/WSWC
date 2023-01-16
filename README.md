@@ -12,7 +12,7 @@ Abaixo seguem elas: As marcadas com ✔, já tem modelos prontos para a varredur
   
   ✔	Krolyc.co.mz
   
-  Compra.co.mz
+  ✔ www.compra.co.mz
   
   ✔	www.Vipspar.com
   
