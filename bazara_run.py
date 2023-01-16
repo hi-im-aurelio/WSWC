@@ -4,7 +4,7 @@ from cockroach import developing_cockroach as developer
 
 import time
 
-from app.models.bazara import ALL_URLS, NAMES
+from app.models.bazara_co_mz import ALL_URLS, NAMES
 from walls.bazara_co_mz import accept_cockies, next_page, scraping
 
 from app.blocs.excel import BlocExcel
