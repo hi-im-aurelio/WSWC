@@ -32,15 +32,10 @@ def scraping(document:BlocExcel, list_item):
         product_name = ELEMENT.find_element(By.CLASS_NAME, "item-area").find_element(By.CLASS_NAME, "details-area").find_element(By.CLASS_NAME, "product-name").text
         product_price = ELEMENT.find_element(By.CLASS_NAME, "item-area").find_element(By.CLASS_NAME, "details-area").find_element(By.CLASS_NAME, "price-box").text
    
-
-        print('Page: {}'.format(product_page))
-        print('Name: {}'.format(product_name))
-        print('Price: {}'.format(product_price))
-
-        # document.save_data_in_excel([product_name,product_page,product_price])
+        document.save_data_in_excel([product_name,product_page,product_price])
         
         shaved += 1
-        # print('Product scraping: {}/{}'.format(shaved, len(list_item)))
+        print('Product scraping: {}/{}'.format(shaved, len(list_item)))
 
 def next_page(browser:webdriver.Firefox):
     try:
