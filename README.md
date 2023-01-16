@@ -8,44 +8,44 @@ Abaixo seguem elas: As marcadas com ✔, já tem modelos prontos para a varredur
 
   ✔	 Bazara.co.mz
   
-  ✔	Buy.co.mz<b>
+  ✔	Buy.co.mz
   
-  ✔	Krolyc.co.mz<b>
+  ✔	Krolyc.co.mz
   
-  Compra.co.mz<b>
+  Compra.co.mz
   
-  ✔	www.Vipspar.com<b>
+  ✔	www.Vipspar.com
   
-  ✔	www.Recheio.co.mz<b>
+  ✔	www.Recheio.co.mz
   
-  ✔ https://milano.co.mz/<b>
+  ✔ https://milano.co.mz/
   
-  https://mozbuy.com/<b>
+  https://mozbuy.com/
   
-  https://mukhero.com/<b>
+  https://mukhero.com/
   
-  ✔ https://lojassmile.com/<b>
+  ✔ https://lojassmile.com/
   
-  ✔ https://megafresh.co.mz/<b>
+  ✔ https://megafresh.co.mz/
   
-  Morep.com<b>
+  Morep.com
   
-  https://www.supermahomed.co.mz/<b>
+  ✔ https://www.supermahomed.co.mz/
   
-  https://www.pep.co.mz/<b>
+  https://www.pep.co.mz/
   
-  https://www.rbs.co.mz/<b>
+  https://www.rbs.co.mz/
   
   www.yupi.co.mz<b>
   
-  https://www.ranxo.co.mz/<b>
+  https://www.ranxo.co.mz/
   
-  https://yezomoz.com/<b>
+  https://yezomoz.com/
   
-  https://www.pharmashop24.co.mz/<b>
+  https://www.pharmashop24.co.mz/
   
-  Mozabuy.com <b>
+  Mozabuy.com
   
-  https://yumyum.co.mz/<b>
+  https://yumyum.co.mz/
 
 ### NOTA: Estes modelos, dependendo das páginas alvos, podem estar sugeitos constantemente a alterações. Por si só, não são dnamicas.
