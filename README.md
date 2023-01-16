@@ -3,8 +3,8 @@ IMPLEMENTED WITH BAD PRACTICES AND A LOT OF LAY CODE.</h1>
 <br>
 # WSWC - Web Scraping With Cockroach
 
-WSWC é um agrupamento de modelos de extração de dados em paginás consideradas alvos. 
-Abaixo seguem elas: As marcadas com ✔, já tem modelos prontos para a varredura.
+<h3>WSWC é um agrupamento de modelos de extração de dados em paginás consideradas alvos. 
+Abaixo seguem elas: As marcadas com ✔, já tem modelos prontos para a varredura.</h3>
 
   ✔	 Bazara.co.mz
   
