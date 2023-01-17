@@ -8,3 +8,4 @@ def browser():
         return webdriver.Firefox(executable_path="config/geckodriver.exe")
     elif so == "Linux":
         return webdriver.Firefox()
+        
