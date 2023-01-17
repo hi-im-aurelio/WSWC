@@ -1,5 +1,7 @@
 /tests
 /venv
+/__pycache__
+/.vscode
 *.log
 *.xlsx
 *.pyc

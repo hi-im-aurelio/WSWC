@@ -5,7 +5,7 @@ from app.lib.blocs.excel import BlocExcel
 
 FILES = os.listdir('./')
 
-NEW_DOCUMENT = BlocExcel(fileName='bazara_ALL_PRODUCTS', columnNames=['PRODUCT_NAME', 'PRODUCT_LINK', 'PRODUCT_PRICE'], sheetName='Sheet')
+NEW_DOCUMENT = BlocExcel(fileName='final_document', columnNames=['PRODUCT_NAME', 'PRODUCT_LINK', 'PRODUCT_PRICE'], sheetName='Sheet')
 
 for FILE in FILES:
     if '.xlsx' in FILE:
