@@ -1,7 +1,7 @@
 import os
 
-from app.lib.blocs.excel import BlocLoadExcel
-from app.lib.blocs.excel import BlocExcel
+from app.blocs.excel import BlocLoadExcel
+from app.blocs.excel import BlocExcel
 
 FILES = os.listdir('./')
 
