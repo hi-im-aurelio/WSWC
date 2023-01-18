@@ -1,0 +1,62 @@
+import getopt, sys
+import os
+from bazara_run import main as bazara
+from compras_run import main as compras
+from krolyc_run import main as krolyc
+from lojas_smile_run import main as lojas_smile
+from megafresh_run import main as megafresh
+from milano_run import main as milano
+from recheio_run import main as recheio
+from supermahomed_run import main as supermahomed
+from vipspar_run import main as vipspar
+from buy_run import main as buy
+import pip
+from create_final_excel import create_final_doc as cfd
+ 
+argumentList = sys.argv[1:]
+ 
+options = "hmg:"
+ 
+long_options = ["help", "models", "get=", "doctor", "create-final-doc"]
+ 
+try:
+    
+    arguments, values = getopt.getopt(argumentList, options, long_options)
+    
+    for currentArgument, currentValue in arguments:
+ 
+        if currentArgument in ("-h", "--help"):
+            with open('help_flag.coc') as readme:
+                print (readme.read())
+        elif currentArgument in ('--create-final-doc'):
+            cfd()
+        elif currentArgument in ("-m", "--models"):
+            for model in os.listdir('walls'): print('  ->  ' + model)
+            print('  to run:\n  python wswc --get bazara')
+        if currentArgument in ("--doctor"):
+            with open('requirements.txt') as requirements:
+                pip.main(["install", 'openpyxl==3.0.10','selenium==4.7.2'])
+        elif currentArgument in ("-g", "--get"):
+            if currentValue == 'bazara':
+                bazara()
+            elif currentValue == 'buy':
+                buy()
+            elif currentValue == 'milano':
+                milano()
+            elif currentValue == 'compras':
+                compras()
+            elif currentValue == 'krolyc':
+                krolyc()
+            elif currentValue == 'lojas_smile':
+                lojas_smile()
+            elif currentValue == 'megafresh':
+                megafresh()
+            elif currentValue == 'recheio':
+                recheio()
+            elif currentValue == 'supermahomed':
+                supermahomed()
+            elif currentValue == 'vipspar':
+                vipspar()
+
+except getopt.error as err:
+    print(str(err))

@@ -1,0 +1,5 @@
+WSWC - Menu de ajuda.
+--doctor                  : Instala o requerimentos do software para rodar o programa.
+--help, -h                : Retorna essa mensagem.
+--models, -m              : Retorna a lista de modelos para raspagem.
+--get=modelo, -g=modelo   : Corra um modelo em especifico.
