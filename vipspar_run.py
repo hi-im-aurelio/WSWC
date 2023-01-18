@@ -1,8 +1,6 @@
 from app.models.vipspar_co_mz import URLS
-
-
 import time
-from selenium import webdriver 
+ 
 from selenium.webdriver.common.by import By
 from cockroach import developing_cockroach as developer
 from app.blocs.excel import BlocExcel
@@ -11,10 +9,8 @@ from browser import browser
 
 def main():
 
-    firefox = browser()
-
     print('Calling the browser. Wait a moment...')
-    firefox = webdriver.Firefox()
+    firefox = browser()
     print('Browser loaded. Starting program!')
 
     def scroll():

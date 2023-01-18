@@ -1,6 +1,5 @@
 from selenium import webdriver 
 from selenium.webdriver.common.by import By
-import openpyxl
 from cockroach import developing_cockroach as developer
 
 

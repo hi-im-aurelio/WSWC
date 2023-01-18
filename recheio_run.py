@@ -1,4 +1,3 @@
-from selenium import webdriver 
 from selenium.webdriver.common.by import By
 from cockroach import developing_cockroach as developer
 import time

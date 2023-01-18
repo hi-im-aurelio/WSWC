@@ -1,11 +1,10 @@
 from selenium import webdriver 
 from selenium.webdriver.common.by import By
-import openpyxl
 from cockroach import developing_cockroach as developer
-
 
 import time
 from app.blocs.excel import BlocExcel
+from selenium import webdriver
 
 # Função para clicar no butão de cockies.
 #

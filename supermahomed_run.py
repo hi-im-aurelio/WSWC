@@ -1,13 +1,12 @@
-from selenium import webdriver 
+ 
 from selenium.webdriver.common.by import By
 from cockroach import developing_cockroach as developer
 import time
 from app.blocs.excel import BlocExcel
 from app.models.supermahomed_co_mz import ALL_URLS, NAMES
 from walls.supermahomed_co_mz.scrappy import next_page, scraping
-
 from browser import browser
-
+ 
 def main():
     print('Calling the browser. Wait a moment...')
     firefox = browser()

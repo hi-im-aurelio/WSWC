@@ -1,6 +1,6 @@
 from app.blocs.excel import BlocExcel
 from app.models.milano_co_mz import ALL_URLS, NAMES
-from selenium import webdriver
+
 from cockroach import developing_cockroach as developer
 import time
 from selenium.webdriver.common.by import By
