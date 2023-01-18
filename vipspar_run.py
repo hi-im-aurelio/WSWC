@@ -37,9 +37,9 @@ def main():
     # firefox.get(KROLYC_URLS[0]) 
 
     def setup():
-        NAME = 0
+        NAME = 16
         for URL in URLS:
-            NAME =+ 1
+            NAME = NAME + 1
             # Inicializando o documento excel.
             _document = BlocExcel(fileName='vipspar_category_'+str(NAME), columnNames=['PRODUCT_NAME', 'PRODUCT_LINK', 'PRODUCT_PRICE'], sheetName='Sheet')
             

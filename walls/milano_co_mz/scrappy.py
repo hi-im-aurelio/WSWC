@@ -29,6 +29,9 @@ def scraping(document:BlocExcel, list_item):
         except:
           ...
 
+        print(product_name)
+        print(product_price)
+        print(product_page)
         if product_price2 !='': document.save_data_in_excel([product_name,product_page,product_price+' - '+product_price2])
         else: document.save_data_in_excel([product_name,product_page,product_price])
         

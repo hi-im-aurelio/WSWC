@@ -64,7 +64,6 @@ try:
                 supermahomed()
             elif currentValue == 'vipspar':
                 vipspar()
-        else: print('No...no...no...something wrong is not right.')
-
+     
 except getopt.error as err:
     print(str(err))

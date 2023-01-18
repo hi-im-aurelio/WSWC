@@ -15,8 +15,7 @@ def main():
 
     # Começando a varredura.
     def start_scan(document:BlocExcel):
-        elemento_de_lista = firefox.find_element(By.XPATH, "//ul[@class='products oceanwp-row clr grid']")
-        list_items = elemento_de_lista.find_elements(By.TAG_NAME, "li")
+        list_items = firefox.find_element(By.CLASS_NAME, 'grid').find_elements(By.TAG_NAME, "li")
 
 
         developer.log('✔ Found data.')
