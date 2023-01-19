@@ -44,6 +44,7 @@ class BlocExcel:
 
         self.book.save(self.fileName + '.xlsx')
         developer.log(message='Saved Excel file.', name='Excel')
+        os.chdir('../../')
 
 class BlocLoadExcel:
     def load_excel(self, path:str): 
