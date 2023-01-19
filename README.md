@@ -6,7 +6,9 @@
 - [RUNNING](#running)
 
 # UPDATE_NOTES
-⚠ Now the models are not run through the `python model_name_run.py` command, now there is a simpler way to do this:
+⚠ The excel documents are no longer stored in the wswc root, when the documents are generated they will be in the `documents/model_name` folder.
+
+Now the models are not run through the `python model_name_run.py` command, now there is a simpler way to do this:
 
 ~~~bash
 # using long option [--get]
