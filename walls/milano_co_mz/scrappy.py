@@ -19,21 +19,21 @@ def scraping(document:BlocExcel, list_item):
 
     shaved = 0
     for ELEMENT in list_item:
-        product_price2 = ''
-        product_page = ELEMENT.find_element(By.XPATH, "//div[@class='woo-entry-image clr']").find_elements(By.TAG_NAME, "a")[0].get_attribute("href")
-        product_name = ELEMENT.find_element(By.XPATH, "//div[@class='woo-entry-image clr']").find_elements(By.TAG_NAME, "a")[0].find_element(By.TAG_NAME, "img").get_attribute("alt")
-        product_price = ELEMENT.find_element(By.XPATH, "//ul[@class='woo-entry-inner clr']").find_element(By.CLASS_NAME, "price-wrap").find_element(By.CLASS_NAME, "price").find_elements(By.TAG_NAME, "bdi")[0].text
+        product_page = ELEMENT.find_element(By.CLASS_NAME, 'title').find_element(By.TAG_NAME, 'a').get_attribute('href')
+        product_name = ELEMENT.find_element(By.CLASS_NAME, 'title').find_element(By.TAG_NAME, 'a').text
         
+        product_price = 'Valor nao encotrado'
         try:
-          product_price2 = ELEMENT.find_element(By.XPATH, "//ul[@class='woo-entry-inner clr']").find_element(By.CLASS_NAME, "price-wrap").find_element(By.CLASS_NAME, "price").find_elements(By.TAG_NAME, "bdi")[1].text
+            product_price = ELEMENT.find_element(By.CLASS_NAME, 'price-wrap').find_element(By.CLASS_NAME, 'price').text
         except:
-          ...
+            print('An exception occurred em product_price')
+        
 
         print(product_name)
         print(product_price)
         print(product_page)
-        if product_price2 !='': document.save_data_in_excel([product_name,product_page,product_price+' - '+product_price2])
-        else: document.save_data_in_excel([product_name,product_page,product_price])
+        
+        document.save_data_in_excel([product_name,product_page,product_price])
         
         shaved += 1
         print('Product scraping: {}/{}'.format(shaved, len(list_item)))

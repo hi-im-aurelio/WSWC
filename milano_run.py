@@ -9,41 +9,31 @@ from walls.milano_co_mz.scrappy import next_page, scraping
 
 
 def main():
-    developer.log('Calling the browser. Wait a moment.')
+
+    print('Calling the browser. Wait a moment.')
     firefox = browser()
-    print('Browser loaded. Starting program!')
 
-    # Começando a varredura.
     def start_scan(document:BlocExcel):
-        list_items = firefox.find_element(By.CLASS_NAME, 'grid').find_elements(By.TAG_NAME, "li")
-
-
+        list_items = firefox.find_elements(By.XPATH, "//div[@class='product-inner clr']")
+        
         developer.log('✔ Found data.')
         print('Consuming fetched data.')
 
         scraping(document, list_items)
 
-
     def setup():
 
-
-        do_you_accept_cookies = False
-
-
         for URL, NAME in zip(ALL_URLS, NAMES):
-            
-            # Inicializando o documento excel.
             _document = BlocExcel(fileName='milano_category_'+NAME, columnNames=['PRODUCT_NAME', 'PRODUCT_LINK', 'PRODUCT_PRICE'], sheetName='Sheet')
-            
+    
             firefox.get(URL) # Pegando a categoria
-
             while True:
                 print('Starting scan in 2 second...')
                 time.sleep(2)
-                start_scan(_document) # primeiro pega os dados da pagina.
-                if next_page(browser=firefox): # depois vefica se ainda há paginas.
-                    continue # continua caso hajam paginas.
+                start_scan(_document)
+                if next_page(browser=firefox):
+                    continue
                 else:
                     _document.generate_and_save_excel()
-                    break # caso contrario
+                    break
     setup()
