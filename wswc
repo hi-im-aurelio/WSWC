@@ -10,6 +10,8 @@ from templates.recheio_run import main as recheio
 from templates.supermahomed_run import main as supermahomed
 from templates.vipspar_run import main as vipspar
 from templates.buy_run import main as buy
+from templates.mukhero_run import main as mukhero
+
 import pip
 from create_final_excel import create_final_doc as cfd
 import time
@@ -69,6 +71,8 @@ try:
                 supermahomed()
             elif currentValue == 'vipspar':
                 vipspar()
+            elif currentValue == 'mukhero':
+                mukhero()
      
 except getopt.error as err:
     print(str(err))
