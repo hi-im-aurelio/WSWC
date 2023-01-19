@@ -1,13 +1,16 @@
 '''Fragmento responsavel por gerar o excel.'''
-import openpyxl
 from cockroach import developing_cockroach as developer
+import openpyxl
+import time
 import os
 
 class BlocExcel:
     def __init__(self, fileName:str, columnNames:list, sheetName:str):
+        self.path = 'documents'
         self.fileName:str = fileName # Nome do documento
         self.columnNames = columnNames # Columns names
         self.sheetName = sheetName
+
         
         self.book = openpyxl.Workbook()
 
@@ -23,6 +26,22 @@ class BlocExcel:
 
     def generate_and_save_excel(self):
         '''Generate and save excel file'''
+
+        destinationFolder = ''
+        for character in self.fileName.replace("_category", ""):
+            if character == '_':
+                break
+            else:
+                destinationFolder += character
+        
+        try:
+            os.makedirs(self.path+'/'+destinationFolder)
+        except FileExistsError as error:
+            ...
+
+        time.sleep(2)
+        os.chdir(self.path+'/'+destinationFolder)
+
         self.book.save(self.fileName + '.xlsx')
         developer.log(message='Saved Excel file.', name='Excel')
 
