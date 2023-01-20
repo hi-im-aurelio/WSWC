@@ -18,9 +18,9 @@ import time
  
 argumentList = sys.argv[1:]
  
-options = "hmg:"
+options = "vhmg:"
  
-long_options = ["help", "models", "get=", "doctor", "create-final-doc"]
+long_options = ["version", "help", "models", "get=", "doctor", "create-final-doc"]
  
 try:
     
@@ -29,7 +29,7 @@ try:
     for currentArgument, currentValue in arguments:
 
         if currentArgument in ("-h", "--help"):
-            with open('help_flag.coc') as readme:
+            with open('config/help-flag.coc') as readme:
                 print (readme.read())
 
         elif currentArgument in ('--create-final-doc'):
@@ -50,6 +50,9 @@ try:
             with open('requirements.txt') as requirements:
                 pip.main(["install", 'openpyxl==3.0.10','selenium==4.7.2'])
 
+        elif currentArgument in ("-v", "--version"):
+            with open('config/wswc-version.coc', 'r') as version:
+                print('wswc version ' +  version.read())
         elif currentArgument in ("-g", "--get"):
             if currentValue == 'bazara':
                 bazara()

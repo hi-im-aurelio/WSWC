@@ -14,7 +14,12 @@ def main():
     # Começando a varredura.
     def start_scan(document:BlocExcel):
         
-        list_items = firefox.find_element(By.XPATH, "//ul[@class='products  columns-4 list']").find_elements(By.TAG_NAME, "li")
+        list_items = []
+        try:
+            firefox.find_element(By.XPATH, "//ul[@class='products  columns-4 list']").find_elements(By.TAG_NAME, "li")
+        except:
+            print('No datas founded...')
+
         coc.log('✔ Found data.')
         print('Consuming fetched data.')
 
