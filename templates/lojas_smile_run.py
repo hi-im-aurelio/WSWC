@@ -16,7 +16,7 @@ def main():
         
         list_items = []
         try:
-            firefox.find_element(By.XPATH, "//ul[@class='products  columns-4 list']").find_elements(By.TAG_NAME, "li")
+            list_items = firefox.find_element(By.XPATH, "//ul[@class='products  columns-4 list']").find_elements(By.TAG_NAME, "li")
         except:
             print('No datas founded...')
 
