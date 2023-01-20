@@ -47,9 +47,9 @@ def create_final_doc():
 
     
 def _acess(path):
+    NEW_DOCUMENT = BlocExcel(fileName=path.replace(f'{_documentPath}', '') + '_final_document', columnNames=['PRODUCT_NAME', 'PRODUCT_LINK', 'PRODUCT_PRICE'], sheetName='Sheet')
     _acessFILES = os.listdir(path)
     _document = list()
-    fileName = ''
     for FILE in _acessFILES:
         if '.xlsx' in FILE:
             _document.append(FILE)
@@ -59,13 +59,9 @@ def _acess(path):
         print(f'Nenhum documento encontrado em: DIR({path})')
         print('Tu sabes, o tempo é tão sombrio. Saindo...')
     else:
-        for FILE in _document:
+        for FILE in _acessFILES:
             if '.xlsx' in FILE:
-                fileName = FILE
                 document = BlocLoadExcel().load_excel(path+'/'+FILE)['Sheet']
-                NEW_DOCUMENT = BlocExcel(fileName=fileName.replace('_category', '') + 'FINAL-DOC', columnNames=['PRODUCT_NAME', 'PRODUCT_LINK', 'PRODUCT_PRICE'], sheetName='Sheet')
                 for ROW in document.iter_rows(min_row=2):
                     NEW_DOCUMENT.save_data_in_excel([ROW[0].value, ROW[1].value, ROW[2].value])
         NEW_DOCUMENT.generate_and_save_excel() # commit
-
-create_final_doc()
