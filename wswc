@@ -18,9 +18,9 @@ import time
  
 argumentList = sys.argv[1:]
  
-options = "vhmg:"
+options = "vchmg:"
  
-long_options = ["version", "help", "models", "get=", "doctor", "create-final-doc"]
+long_options = ["version", "create-final-doc",  "help", "models", "get=", "doctor"]
  
 try:
     
@@ -32,7 +32,7 @@ try:
             with open('config/help-flag.coc') as readme:
                 print (readme.read())
 
-        elif currentArgument in ('--create-final-doc'):
+        elif currentArgument in ('-c', '--create-final-doc'):
             cfd()
 
         elif currentArgument in ("-m", "--models"):
