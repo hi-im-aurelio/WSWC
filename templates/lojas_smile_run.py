@@ -35,7 +35,7 @@ def main():
         for URL, NAME in zip(ALL_URLS, NAMES):
             
             # Inicializando o documento excel.
-            _document = BlocExcel(fileName='lojas_smile_category_'+NAME, columnNames=['PRODUCT_NAME', 'PRODUCT_LINK', 'PRODUCT_PRICE'], sheetName='Sheet')
+            _document = BlocExcel(fileName='lojas-smile_category_'+NAME, columnNames=['PRODUCT_NAME', 'PRODUCT_LINK', 'PRODUCT_PRICE'], sheetName='Sheet')
             
             firefox.get(URL) # Pegando a categoria
 
