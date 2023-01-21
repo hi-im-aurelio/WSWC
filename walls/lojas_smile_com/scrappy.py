@@ -21,11 +21,11 @@ def scraping(document:BlocExcel, list_item):
     shaved = 0
     for ELEMENT in list_item:
         
-        product_page = ELEMENT.find_element(By.XPATH, "//a[@class='woocommerce-LoopProduct-link']").get_attribute("href")
-        product_name = ELEMENT.find_element(By.XPATH, "//h3[@class='product-name']").text
-        product_price = ELEMENT.find_element(By.XPATH, "//span[@class='woocommerce-Price-amount amount']").text
+        product_url = ELEMENT.find_element(By.CLASS_NAME, "container-inner").find_element(By.TAG_NAME, "a").get_attribute("href")
+        product_price = ELEMENT.find_element(By.CLASS_NAME, "container-inner").find_element(By.TAG_NAME, "span").text
+        product_name = ELEMENT.find_element(By.CLASS_NAME, "container-inner").find_element(By.TAG_NAME, "h3").text
 
-        document.save_data_in_excel([product_name,product_page,product_price])
+        document.save_data_in_excel([product_name,product_url,product_price])
         shaved += 1
         print('Product scraping: {}/{}'.format(shaved, len(list_item)))
 

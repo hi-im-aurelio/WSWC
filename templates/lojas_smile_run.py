@@ -7,6 +7,7 @@ from walls.lojas_smile_com.scrappy import next_page, scraping
 import time
 from browser import browser
 
+
 def main():
     print('Iniciando o browser.')
     firefox = browser()
@@ -15,10 +16,15 @@ def main():
     def start_scan(document:BlocExcel):
         
         list_items = []
-        try:
-            list_items = firefox.find_element(By.XPATH, "//ul[@class='products  columns-4 list']").find_elements(By.TAG_NAME, "li")
-        except:
-            print('No datas founded...')
+        n = firefox.find_elements(By.XPATH, "//div/div/ul/li/div[@class='product-block']")
+        
+        for i in n:
+            try:
+                # se falha aqui, então a lista não será preenchida.
+                i.find_element(By.CLASS_NAME, "product-block-inner").find_element(By.CLASS_NAME, "container-inner").find_element(By.TAG_NAME, "a").get_attribute("href")
+                list_items.append(i.find_element(By.CLASS_NAME, "product-block-inner"))
+            except:
+                ...
 
         coc.log('✔ Found data.')
         print('Consuming fetched data.')
@@ -27,11 +33,6 @@ def main():
 
 
     def setup():
-
-
-        do_you_accept_cookies = False
-
-
         for URL, NAME in zip(ALL_URLS, NAMES):
             
             # Inicializando o documento excel.
