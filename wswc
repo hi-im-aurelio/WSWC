@@ -1,20 +1,22 @@
 import getopt, sys
+import pip
 import os
-from templates.bazara_run import main as bazara
-from templates.compras_run import main as compras
-from templates.krolyc_run import main as krolyc
+
+from templates.supermahomed_run import main as supermahomed
 from templates.lojas_smile_run import main as lojas_smile
 from templates.megafresh_run import main as megafresh
-from templates.milano_run import main as milano
-from templates.recheio_run import main as recheio
-from templates.supermahomed_run import main as supermahomed
+from templates.compras_run import main as compras
 from templates.vipspar_run import main as vipspar
-from templates.buy_run import main as buy
+from templates.recheio_run import main as recheio
 from templates.mukhero_run import main as mukhero
+from templates.bazara_run import main as bazara
+from templates.milano_run import main as milano
+from templates.krolyc_run import main as krolyc
+from templates.buy_run import main as buy
+from templates.pep_run import main as pep
 
-import pip
 from create_final_excel import create_final_doc as cfd
-import time
+
  
 argumentList = sys.argv[1:]
  
@@ -76,6 +78,8 @@ try:
                 vipspar()
             elif currentValue == 'mukhero':
                 mukhero()
+            elif currentValue == 'pep':
+                pep()
      
 except getopt.error as err:
     print(str(err))
