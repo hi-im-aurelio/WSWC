@@ -12,6 +12,7 @@ from templates.mukhero_run import main as mukhero
 from templates.bazara_run import main as bazara
 from templates.milano_run import main as milano
 from templates.krolyc_run import main as krolyc
+from templates.mozbuy_run import main as mozbuy
 from templates.buy_run import main as buy
 from templates.pep_run import main as pep
 
@@ -80,6 +81,8 @@ try:
                 mukhero()
             elif currentValue == 'pep':
                 pep()
+            elif currentValue == 'mozbuy':
+                mozbuy()
      
 except getopt.error as err:
     print(str(err))
