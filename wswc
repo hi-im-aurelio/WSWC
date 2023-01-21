@@ -39,14 +39,16 @@ try:
             cfd()
 
         elif currentArgument in ("-m", "--models"):
-            
+            numberOfModels = 0
             for model in os.listdir('walls'):
+                numberOfModels += 1
                 MODEL = ''
                 if '_co_mz' in model: 
                     MODEL = model.replace('_co_mz', '') 
                 elif '_com' in model:
                     MODEL = model.replace('_com', '')
                 print('  ->  ' + MODEL)
+            print('  Available models: {}'.format(numberOfModels))
             print('  to run:\n  python wswc --get bazara')
 
         if currentArgument in ("--doctor"):
